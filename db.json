@@ -192,6 +192,14 @@
         "description": "O clássico sorvete de morango que deixe tudo mais leve.",
         "price": 10,
         "image": "https://i.imgur.com/0TWnEI7.jpg"
+      },
+      {
+        "id": 6,
+        "snack": "ice-cream",
+        "name": "<Placa mae>",
+        "description": "Placa mae Intel",
+        "price": 899,
+        "image": "https://imgur.com/jX8fgAChttps://i.imgur.com/osAHOLe.jpg"
       }
     ]
   }
